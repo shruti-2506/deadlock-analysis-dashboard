@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+
+# Build & temporary files
+*.tmp
+*.log
+*.bak
+*.zip
+
+# Sensitive files
+.env
+.env.*
+*.pem
+*.key
